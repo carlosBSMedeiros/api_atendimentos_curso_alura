@@ -1,0 +1,1 @@
+exports.db_senha = 'SENHA_DO_BANCO'
